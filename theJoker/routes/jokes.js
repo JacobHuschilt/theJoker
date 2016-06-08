@@ -135,7 +135,7 @@ router.get('/:words', function (req, res, next) {
         return tone.score
       });
 
-      console.log("Max Tone = " + maxTone.score + " With Score = " + maxTone.tone_name)
+      console.log("Max Tone = " + maxTone.tone_name + " With Score = " + maxTone.score)
 
       var joke;
       var tell = 0;
