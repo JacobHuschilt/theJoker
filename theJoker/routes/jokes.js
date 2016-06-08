@@ -74,22 +74,21 @@ var tellStarter = "Hey Alexa, Tell Jerry ";
 var askComment = [
   "Whats up",
   "to Tell me a joke",
-
   "What you got",
   "to make me laugh",
   "to cheer me up",
   "do you think you're funny",
-  "what's up"
+  "what's up",
+  "whats the deal with potatoes",
+  "whats the deal with pizza",
+  "whats the deal with reservations"
 ];
 
 var tellComment = [
   "I Had a rough day",
   "I'm bored",
   "I was stuck in traffic",
-  "Damn, tell a joke",
-  "whats the deal with potatoes",
-  "whats the deal with pizza",
-  "whats the deal with reservations"
+  "Damn, tell a joke"
 ];
 
 function getItem(list) {
