@@ -69,7 +69,7 @@ var laughs = [
 ];
 
 var askStarter = " Hey Alexa, Ask Jerry ";
-var tellStarter = "Hey Alexa, Tell Jerry";
+var tellStarter = "Hey Alexa, Tell Jerry ";
 
 var askComment = [
   "Whats up",
